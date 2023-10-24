@@ -1,7 +1,7 @@
 # EXP06- Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 
-#### NAME: Aashima Nazreen Sayeed S
-#### REG NO: 212221240002
+#### NAME: Anitha P
+#### REG NO: 212221240004
 
 ## AIM:
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
